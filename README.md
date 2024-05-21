@@ -2,10 +2,10 @@ This recon.py tool automates the first step in bug bounty hunting. It finds all 
 
 ##USAGE:-
 
-python3 recon.py
+-->> python3 recon.py
 
 
-Required Tools  
+##Required Tools  
 
 1. Subfinder - https://github.com/projectdiscovery/subfinder
 2. amass - https://github.com/owasp-amass/amass
